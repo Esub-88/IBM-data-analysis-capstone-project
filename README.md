@@ -61,13 +61,6 @@ Dashboard screenshots are included in this repository.
 
 ---
 
-## Job Market Analysis
-
-The project includes a job postings visualization created from **job-postings.xlsx**, gathered during the Data Collection module via API.  
-The bar chart displays job postings per technology keyword, sorted in descending order.
-
----
-
 ## Tools Used
 
 - **Python** (pandas, regex)
@@ -86,7 +79,6 @@ This repository contains:
 - **Final Presentation (PDF and PPTX)**  
 - **Dashboard screenshots**  
 - **Cleaned demographic datasets**  
-- **Job postings visualization**  
 - **Project documentation and insights**  
 
 ---
