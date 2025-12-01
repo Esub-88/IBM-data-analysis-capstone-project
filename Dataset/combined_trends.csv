@@ -1,0 +1,81 @@
+TechName,Count,Category
+JavaScript,14943,Languages Used
+SQL,12602,Languages Used
+HTML/CSS,12410,Languages Used
+TypeScript,10709,Languages Used
+Python,9590,Languages Used
+Bash/Shell (all shells),7244,Languages Used
+C#,6340,Languages Used
+Java,5982,Languages Used
+PHP,4644,Languages Used
+PowerShell,3438,Languages Used
+JavaScript,11541,Languages Desired
+SQL,10944,Languages Desired
+TypeScript,10437,Languages Desired
+HTML/CSS,10016,Languages Desired
+Python,8919,Languages Desired
+Go,5661,Languages Desired
+Rust,5597,Languages Desired
+C#,5590,Languages Desired
+Bash/Shell (all shells),5582,Languages Desired
+Java,4048,Languages Desired
+PostgreSQL,11514,Databases Used
+MySQL,8556,Databases Used
+SQLite,7021,Databases Used
+MongoDB,5930,Databases Used
+Microsoft SQL Server,5870,Databases Used
+Redis,5814,Databases Used
+MariaDB,3994,Databases Used
+Elasticsearch,3491,Databases Used
+Dynamodb,2268,Databases Used
+Oracle,1907,Databases Used
+PostgreSQL,12193,Databases Desired
+Redis,6384,Databases Desired
+SQLite,6295,Databases Desired
+MySQL,6204,Databases Desired
+MongoDB,5618,Databases Desired
+Microsoft SQL Server,4345,Databases Desired
+Elasticsearch,3665,Databases Desired
+MariaDB,3078,Databases Desired
+Dynamodb,2154,Databases Desired
+Supabase,1623,Databases Desired
+Amazon Web Services (AWS),10871,Platforms Used
+Microsoft Azure,6681,Platforms Used
+Google Cloud,5537,Platforms Used
+Cloudflare,3874,Platforms Used
+Digital Ocean,3170,Platforms Used
+Firebase,3025,Platforms Used
+Vercel,2875,Platforms Used
+Heroku,2002,Platforms Used
+Netlify,1662,Platforms Used
+Hetzner,1392,Platforms Used
+Amazon Web Services (AWS),10516,Platforms Desired
+Microsoft Azure,6380,Platforms Desired
+Google Cloud,5431,Platforms Desired
+Cloudflare,4219,Platforms Desired
+Digital Ocean,2908,Platforms Desired
+Vercel,2776,Platforms Desired
+Firebase,2720,Platforms Desired
+Hetzner,1577,Platforms Desired
+Supabase,1368,Platforms Desired
+Netlify,1267,Platforms Desired
+Node.js,9230,Webframes Used
+React,8999,Webframes Used
+jQuery,4810,Webframes Used
+Express,4408,Webframes Used
+Next.js,4399,Webframes Used
+ASP.NET CORE,4319,Webframes Used
+Angular,4038,Webframes Used
+Vue.js,3642,Webframes Used
+ASP.NET,3094,Webframes Used
+Spring Boot,2916,Webframes Used
+React,8223,Webframes Desired
+Node.js,8096,Webframes Desired
+Next.js,4458,Webframes Desired
+ASP.NET CORE,4166,Webframes Desired
+Vue.js,3903,Webframes Desired
+Angular,3309,Webframes Desired
+Express,3216,Webframes Desired
+FastAPI,2823,Webframes Desired
+Spring Boot,2674,Webframes Desired
+Svelte,2559,Webframes Desired
